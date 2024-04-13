@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Requirements
+
+- Node js Version 20 >= Or higher
+- MongoDb Version 4.0 >= Or higher
+
 ## Install Project In Your Device
 
 1. Clone project
