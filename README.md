@@ -1,5 +1,22 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Install Project In Your Device
+
+1. Clone project
+   
+   ```bash
+   git clone https://github.com/jalun118/dashboard-treasurer.git
+   ```
+3. Install all package
+   
+   ```bash
+   npm install
+   # or
+   yarn add
+   # or
+   pnpm install
+   ```
+
 ## Getting Started
 
 First, create an `env` file in the root project directory with following contents:
