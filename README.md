@@ -21,7 +21,6 @@ Second, open your mongo db and create a collection named `administrators` then p
 
 ```json
 {
-  ...
   "name": "super admin",
   "username": "admin",
   "password": "$2b$10$O4GbomLdN.9lEfgtDjG.Zeedmt6aORUT4btAv4f4UFagl8YHnguwK",
